@@ -1,4 +1,4 @@
-# 📊 Klasifikasi Tingkat Pendapatan Berdasarkan Data Demografi dengan Metode K-Nearest Neighbor
+# Klasifikasi Tingkat Pendapatan Berdasarkan Data Demografi dengan Metode K-Nearest Neighbor
 
 **Author**: Ferdiansyah Pratama
 
@@ -90,7 +90,7 @@ F1-Score  : 0.63 (macro)
 - Preprocessing (scaling & balancing) berpengaruh signifikan pada performa model.
 - Kelas `>50K` lebih mudah diprediksi dibanding `<=50K`.
 
-📌 **Saran:**
+ **Saran:**
 Mungkin untuk penelitian selanjutnya bisa dibandingkan dengan algoritma lain seperti **Random Forest, XGBoost, atau Logistic Regression**.
 
 ---
